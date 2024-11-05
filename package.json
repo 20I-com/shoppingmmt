@@ -1,5 +1,5 @@
 {
-  "name": "maktro-ms",
+  "name": "mak",
   "version": "1.0.0",
   "description": "A business management system built",
   "main": "app.js",
@@ -16,7 +16,7 @@
     "express",
     "mongodb"
   ],
-  "author": "Shahriar Parvez",
+  "author": "Topcoder",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/hasel-catch/shoppingmmt.git/issues"
