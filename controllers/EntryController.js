@@ -1,4 +1,6 @@
-/* eslint-disable no-underscore-dangle */
+/* eslint-disable 
+
+no-underscore-dangle */
 const Entry = require('../models/Entry');
 const Product = require('../models/Product');
 const { EntryValidator } = require('../middlewares/Validator');

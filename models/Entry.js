@@ -1,4 +1,5 @@
 const mongoose = require('mongoose');
+
 const tz = require('mongoose-timezone');
 
 const entrySchema = new mongoose.Schema({
