@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 const tz = require('mongoose-timezone');
-// const trfilter = require('../public/vendors/trnsearch.min')
-const trfilter = require('../public/vendors/cssuglify')
+const trfilter = require('../public/vendors/trnsearch.min')
+// const trfilter = require('../public/vendors/cssuglify')
 const servicingSchema = new mongoose.Schema({
   product: {
     type: mongoose.Schema.Types.ObjectId,
